@@ -8,8 +8,7 @@ You can find all the examples on [notebooks](https://github.com/DLR-VF/PtAC-exam
 # Usage
 
 In order to run the [examples](https://github.com/DLR-VF/PtAC-examples/tree/master/notebooks), 
-jupyter notebook should be installed and [PtAC-examples](https://github.com/DLR-VF/PtAC-examples) 
-repository needs to be cloned:
+jupyter notebook should be installed:
 
 **1. open the Anaconda prompt (can be found on windows start menu) and navigate to your home folder**
 
@@ -35,9 +34,10 @@ conda install -c conda-forge notebook
 ```
 conda install -c conda-forge git
 ```
+[PtAC-examples](https://github.com/DLR-VF/PtAC-examples) 
+repository also needs to be cloned. There are two options to download the jupyter notebooks examples:
 
-**5. There are two options to download the jupyter notebooks examples. 
-You can either clone the GitHub repository with**
+**5. clone the GitHub repository with the following command:**
 
 ```
 git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
