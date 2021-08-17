@@ -36,7 +36,8 @@ conda install -c conda-forge notebook
 conda install -c conda-forge git
 ```
 
-**5. clone the GitHub repository with:**
+**5. There are two options to download the jupyter notebooks examples. 
+You can either clone the GitHub repository with**
 
 ```
 git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
@@ -45,7 +46,7 @@ git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
 or download via [PtAC-examples](https://github.com/DLR-VF/PtAC-examples/archive/refs/heads/master.zip) and unzip 
 into working directory.
 
-**6. navigate to the directory of cloned/ downloaded and unzipped repository:**
+**6. navigate to the directory of downloaded repository:**
 
 ```
 cd C:\Users\ptac_user\PtAC-examples
