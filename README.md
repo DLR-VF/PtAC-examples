@@ -5,7 +5,7 @@ and also the necessary [datasets](https://github.com/DLR-VF/PtAC-examples/tree/m
 to demonstrate the features of PtAC. 
 You can find all the examples on [notebooks](https://github.com/DLR-VF/PtAC-examples/tree/master/notebooks) folder.
 
-# Installation
+# Installation and Usage
 
 In order to run the [examples](https://github.com/DLR-VF/PtAC-examples/tree/master/notebooks), 
 [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/index.html) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
@@ -43,15 +43,13 @@ git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
 or download via [PtAC-examples](https://github.com/DLR-VF/PtAC-examples/archive/refs/heads/master.zip) and unzip 
 into working directory.
 
-# Usage
-
-You can now navigate to the directory of downloaded repository:
+**5. You can now navigate to the directory of downloaded repository:**
 
 ```
 cd C:\Users\ptac_user\PtAC-examples
 ```
 
-and launch the notebook with the following command:
+**6. launch the notebook with the following command:**
 
 ```
 jupyter notebook
