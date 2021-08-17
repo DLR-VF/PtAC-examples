@@ -36,13 +36,16 @@ conda install -c conda-forge notebook
 conda install -c conda-forge git
 ```
 
-**5. clone the GitHub repository into working directory:**
+**5. clone the GitHub repository with:**
 
 ```
-git clone https://github.com/DLR-VF/PtAC-examples.git
+git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
 ```
 
-**6. navigate to the directory of cloned repository:**
+or download via [PtAC-examples](https://github.com/DLR-VF/PtAC-examples/archive/refs/heads/master.zip) and unzip 
+into working directory.
+
+**6. navigate to the directory of cloned/ downloaded and unzipped repository:**
 
 ```
 cd C:\Users\ptac_user\PtAC-examples
@@ -58,4 +61,4 @@ jupyter notebook
 
 * [PtAC repository](https://github.com/DLR-VF/PtAC)
 
-* [Documentation](https://test.pypi.org/project/ptac/)
+* [PtAC Documentation](https://github.com/DLR-VF/PtAC/blob/master/docs/source/user-guide.rst)
