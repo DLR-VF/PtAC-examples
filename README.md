@@ -5,10 +5,11 @@ and also the necessary [datasets](https://github.com/DLR-VF/PtAC-examples/tree/m
 to demonstrate the features of PtAC. 
 You can find all the examples on [notebooks](https://github.com/DLR-VF/PtAC-examples/tree/master/notebooks) folder.
 
-# Usage
+# Installation
 
 In order to run the [examples](https://github.com/DLR-VF/PtAC-examples/tree/master/notebooks), 
-jupyter notebook should be installed:
+[jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/index.html) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+needs be installed:
 
 **1. open the Anaconda prompt (can be found on windows start menu) and navigate to your home folder**
 
@@ -29,13 +30,14 @@ conda activate ptac
 conda install -c conda-forge notebook
 ```
 
+
 **4. install git to be able to clone the GitHub repository:**
 
 ```
 conda install -c conda-forge git
 ```
-[PtAC-examples](https://github.com/DLR-VF/PtAC-examples) 
-repository also needs to be cloned. There are two options to download the jupyter notebook examples:
+
+In order to download [PtAC-examples](https://github.com/DLR-VF/PtAC-examples) repository, there are two options to follow:
 
 **5. clone the GitHub repository with the following command:**
 
@@ -46,17 +48,19 @@ git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
 or download via [PtAC-examples](https://github.com/DLR-VF/PtAC-examples/archive/refs/heads/master.zip) and unzip 
 into working directory.
 
-**6. navigate to the directory of downloaded repository:**
+# Usage
+
+You can now navigate to the directory of downloaded repository:
 
 ```
 cd C:\Users\ptac_user\PtAC-examples
 ```
 
-**7. launch the notebook with the following command:**
+and launch the notebook with the following command:
+
 ```
 jupyter notebook
 ```
-
 
 # More info:
 
