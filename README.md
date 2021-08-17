@@ -30,16 +30,11 @@ conda activate ptac
 conda install -c conda-forge notebook
 ```
 
+In order to download [PtAC-examples](https://github.com/DLR-VF/PtAC-examples) repository, 
+follow one of the options below:
 
-**4. install git to be able to clone the GitHub repository:**
-
-```
-conda install -c conda-forge git
-```
-
-In order to download [PtAC-examples](https://github.com/DLR-VF/PtAC-examples) repository, there are two options to follow:
-
-**5. clone the GitHub repository with the following command:**
+**4. [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+and clone the GitHub repository with the following command:**
 
 ```
 git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
