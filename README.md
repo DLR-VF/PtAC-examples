@@ -56,7 +56,7 @@ jupyter notebook
 ```
 The notebook will automatically start running on localhost in your defautl browser:
 
-<img src='../jupyter_notebook.png">
+![ScreenShot](C:\Users\yosm_se\jupyter_notebook.png)
 
 # More info:
 
