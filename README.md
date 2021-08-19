@@ -14,7 +14,7 @@ needs be installed:
 **1. open the Anaconda prompt (can be found on windows start menu) and navigate to your home folder**
 
 ```
-cd C:\Users\"your_username"
+cd C:\Users\your_username
 ```
 
 **2. activate the conda environment in which PtAC is already installed 
@@ -46,7 +46,7 @@ into working directory.
 **5. You can now navigate to the directory of downloaded repository:**
 
 ```
-cd C:\Users\ptac_user\PtAC-examples
+cd C:\Users\your_username\PtAC-examples
 ```
 
 **6. launch the notebook with the following command:**
@@ -56,7 +56,8 @@ jupyter notebook
 ```
 The notebook will automatically start running on localhost in your defautl browser:
 
-![ScreenShot](C:\Users\yosm_se\jupyter_notebook.png)
+![image info](C:\Users\yosm_se\jupyter_notebook.png)
+
 
 # More info:
 
