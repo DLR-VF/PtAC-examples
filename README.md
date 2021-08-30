@@ -14,7 +14,7 @@ needs be installed:
 **1. open the Anaconda prompt (can be found on windows start menu) and navigate to your home folder**
 
 ```
-cd C:\Users\"your_username"
+cd C:\Users\your_username
 ```
 
 **2. activate the conda environment in which PtAC is already installed 
@@ -46,7 +46,7 @@ into working directory.
 **5. You can now navigate to the directory of downloaded repository:**
 
 ```
-cd C:\Users\ptac_user\PtAC-examples
+cd C:\Users\your_username\PtAC-examples
 ```
 
 **6. launch the notebook with the following command:**
@@ -54,9 +54,11 @@ cd C:\Users\ptac_user\PtAC-examples
 ```
 jupyter notebook
 ```
-The notebook will automatically start running on localhost in your defautl browser:
 
-![ScreenShot](C:\Users\yosm_se\jupyter_notebook.png)
+This will print some information about the notebook server in your Anaconda prompt, and open your default web browser to the URL of the web application (by default, http://127.0.0.1:8888).
+
+The landing page of the Jupyter notebook web application, the dashboard, shows the notebooks currently available in the notebook directory (by default, the directory from which the notebook server was started).
+
 
 # More info:
 
