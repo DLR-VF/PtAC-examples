@@ -37,7 +37,7 @@ follow one of the options below:
 and clone the GitHub repository with the following command:**
 
 ```
-git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\ptac_user\
+git clone https://github.com/DLR-VF/PtAC-examples.git C:\Users\your_username\
 ```
 
 or download via [PtAC-examples](https://github.com/DLR-VF/PtAC-examples/archive/refs/heads/master.zip) and unzip 
